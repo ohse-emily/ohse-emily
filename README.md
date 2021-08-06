@@ -21,9 +21,8 @@ which is for peaple who want to leave their last words to the world.
 <div>
 📝 <a href="https://blckchainetc.tistory.com/">Blog</a>
 </div>
+
 <div>
 📧 Email : saeee210@gmail.com
 </div>
-Here are some [🦜 parrots](https://cultofthepartyparrot.com):
-
 
