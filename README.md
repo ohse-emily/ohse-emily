@@ -1,4 +1,3 @@
-<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
    Hi there  👋   
 
 <!--
@@ -19,11 +18,12 @@ Here are some ideas to get you started:
 🤸‍♀️ I'm currently working on [BYD] project,  
 which is for peaple who want to leave their last words to the world. 
 
-
+<div>
 📝 <a href="https://blckchainetc.tistory.com/">Blog</a>
-
+</div>
+<div>
 📧 Email : saeee210@gmail.com
-
+</div>
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 
