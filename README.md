@@ -1,13 +1,20 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25">  Hi, there!
-
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25">  Hi, there!
+<br/>
 
 🤸‍♀️ I'm currently working on [BYD] project,  
 which is for peaple who want to leave their last words to the world. 
 
+
+🥕 I am currently learning 
+- Python
+- React and React Native + Expo 
+
+
+<br/>
 <div>
 📝 <a href="https://blckchainetc.tistory.com/">Blog</a>
 </div>
-<div></div>
+<br/>
 <div>
 📧 Email : saeee210@gmail.com
 </div>
