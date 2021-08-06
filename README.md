@@ -1,5 +1,5 @@
-###<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
- Hi there 👋   
+<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+   Hi there  👋   
 
 <!--
 **ohse-emily/ohse-emily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
