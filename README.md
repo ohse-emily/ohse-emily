@@ -16,11 +16,11 @@ which is for peaple who want to leave their last words to the world.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 <br/>
+![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
