@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-📝 Blog : https://blckchainetc.tistory.com/
+📝 <a href="https://blckchainetc.tistory.com/">Blog</a>
+
+✉ Email : saeee210@gmail.com
