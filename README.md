@@ -2,7 +2,7 @@
 
 
 ### 🤸‍♀️ I'm currently working on [BYD] project,  
-which is for peaple who want to leave their last words to the world. 
+which is for people who want to leave their last words to the world. 
 
 
 ### 🥕 I am currently learning 
