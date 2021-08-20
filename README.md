@@ -5,7 +5,7 @@
 which is for people who want to leave their last words to the world. 
 
 
-### 🥕 I am currently learning 
+### 🥕 I am learning 
 - Python
 - React and React Native + Expo 
 
