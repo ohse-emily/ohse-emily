@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25">  Hi, there!
 
 
-### 🤸‍♀️ I'm currently working on [BYD] project,  
+### 🤸‍♀️ I'm currently working on [Before You Die] project,  
 which is for people who want to leave their last words to the world. 
 
 
