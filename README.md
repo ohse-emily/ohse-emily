@@ -1,10 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25">  Hi, there!
 
 
-### 🤸‍♀️ I'm currently ...  
+<!-- ### 🤸‍♀️ I'm currently ...   -->
 
-### 🥕 I am learning 
-- BlockChain 
+### 🥕 I am interested in
+- BlockChain
+- solidity
 - NFT
 
 
