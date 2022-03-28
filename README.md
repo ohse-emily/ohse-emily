@@ -14,13 +14,15 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-typeScript-black?style=flat-square&logo=typescript)
+![Solidity](https://img.shields.io/badge/-solidity-black?style=flat-square&logo=solidity)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
+![Sequelize](https://img.shields.io/badge/-sequelize-black?style=flat-square&logo=Sequelize)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 ![MongoDB](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=MongoDB)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-black?style=flat-square&logo=expo)
@@ -34,7 +36,7 @@
 
 
 
-#### 📝 I love taking notes! have a look at <a href="https://blckchainetc.tistory.com/">My Blog</a>
+#### 📝 I love taking notes! Have a look at <a href="https://blckchainetc.tistory.com/">My Blog</a> & <a href="https://medium.com/blockchain-nft">Our Blockchain Blog</a>
 
 #### 📧 Email : saeee210@gmail.com
 
