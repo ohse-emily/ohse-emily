@@ -4,9 +4,8 @@
 <!-- ### 🤸‍♀️ I'm currently ...   -->
 
 ### 🥕 I am interested in
-- BlockChain
-- solidity
-- NFT
+- BLOCKCHAIN
+- ETC...
 
 
 ### Languages and Tools:
