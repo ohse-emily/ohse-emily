@@ -16,6 +16,8 @@
 ![Solidity](https://img.shields.io/badge/-solidity-black?style=flat-square&logo=solidity)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart)
 
 ![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
 ![Sequelize](https://img.shields.io/badge/-sequelize-black?style=flat-square&logo=Sequelize)
