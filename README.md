@@ -16,6 +16,7 @@
 ![Solidity](https://img.shields.io/badge/-solidity-black?style=flat-square&logo=solidity)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![NestJs](https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=NestJs)
 ![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart)
 
