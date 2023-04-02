@@ -4,8 +4,9 @@
 <!-- ### 🤸‍♀️ I'm currently ...   -->
 
 ### 🥕 I am interested in
-- BLOCKCHAIN
-- ETC...
+- App Development
+- Blockchain
+
 
 
 ### Languages and Tools:
@@ -25,6 +26,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 ![MongoDB](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=MongoDB)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=Elasticsearch)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
