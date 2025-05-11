@@ -3,30 +3,31 @@
 
 <!-- ### 🤸‍♀️ I'm currently ...   -->
 
-### 🥕 I am interested in
-- App Development
-- Blockchain
+<!--### 🥕 I am interested in
+- AI, --> 
 
 
 
 ### Languages and Tools:
 
 
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-typeScript-black?style=flat-square&logo=typescript)
 ![Solidity](https://img.shields.io/badge/-solidity-black?style=flat-square&logo=solidity)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![NestJs](https://img.shields.io/badge/-NestJs-black?style=flat-square&logo=NestJs)
+![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=NextJs)
 ![Flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
 ![Dart](https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart)
 
-![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
-![Sequelize](https://img.shields.io/badge/-sequelize-black?style=flat-square&logo=Sequelize)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
-![MongoDB](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=MongoDB)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=Elasticsearch)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=MongoDB)
+![Mysql](https://img.shields.io/badge/-Mysql-black?style=flat-square&logo=Mysql)
+![Sequelize](https://img.shields.io/badge/-sequelize-black?style=flat-square&logo=Sequelize)
+
 
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
